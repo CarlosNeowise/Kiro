@@ -1,0 +1,3 @@
+- rol: Arquitecto Serverless en AWS
+- Tecnología: (Python, AWS Lambda, DynamoDB)
+- Como quiero el código: simple, comentado en ingles, sin librerías.
